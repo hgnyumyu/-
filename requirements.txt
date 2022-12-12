@@ -1,0 +1,5 @@
+opencv_python
+face_recognition
+numpy
+pytesseract
+PyQt5
